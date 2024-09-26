@@ -1,4 +1,7 @@
-
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{subinsong01}?pet-id=1" width="1000" height="120"/>
+<img
+  src="https://render.gitanimals.org/farms/subinsong01"
+  width="600"
+  height="300"
+/>
 </a>
