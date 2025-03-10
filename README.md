@@ -15,3 +15,4 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=ReactQuery&logoColor=white)
