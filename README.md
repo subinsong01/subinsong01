@@ -12,6 +12,8 @@
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=Styled-Components&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
+
 
 🌱 **studying**
 
