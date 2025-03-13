@@ -1,4 +1,5 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnR6dGthMTUxYmc0c2tqdGR0a242YzJ0Y3pjcDV1cnJkcjN1b2s1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="300" />
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHozb2lpeWh3NG1odjZ0NnZtMjEyb3kzYWRoZHJ5em93ZXM3aTJtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7lsw8RenVcjCM/giphy.gif" width="200" />
 
 🚀 **focusing**
 
@@ -18,4 +19,3 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=ReactQuery&logoColor=white)
-
