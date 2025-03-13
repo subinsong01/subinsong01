@@ -1,5 +1,8 @@
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHozb2lpeWh3NG1odjZ0NnZtMjEyb3kzYWRoZHJ5em93ZXM3aTJtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7lsw8RenVcjCM/giphy.gif" width="200" /> 
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHozb2lpeWh3NG1odjZ0NnZtMjEyb3kzYWRoZHJ5em93ZXM3aTJtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7lsw8RenVcjCM/giphy.gif" width="200" /> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubinsong01&count_bg=%23FF9FFC&title_bg=%23454545&icon=&icon_color=%23E7E7E7&title=CCTV+%F0%9F%93%B8&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=haely12)](https://solved.ac/haely12) 
+🪺 **Algorithm state** 
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=haely12)](https://solved.ac/haely12) 
 
 
 🚀 **focusing**
@@ -23,4 +26,6 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=ReactQuery&logoColor=white)
 
+`watching`
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubinsong01&count_bg=%23FF9FFC&title_bg=%23454545&icon=&icon_color=%23E7E7E7&title=CCTV+%F0%9F%91%80&edge_flat=false)](https://hits.seeyoufarm.com)
