@@ -17,12 +17,12 @@
 
 ### 🎖️ My Project
 
-**`🐕 댕댕어디가`**  👉🏻 <a href="https://github.com/subinsong01/WHERE_ARE_YOU_GOING_DAENG_DAENG_FE"> github </a> <br/>
+**`🐕 댕댕어디가`**  👉🏻 <a href="https://github.com/subinsong01/WHERE_ARE_YOU_GOING_DAENG_DAENG_FE"> repository </a> <br/>
 > 반려동물 동반 가능 시설 공유 서비스 (2024.11.12 ~ 2025.02.17) <br/>
 JavaScript | React | Styled-Component
 
 
-**`🍞 엔빵`** 👉🏻  <a href="https://github.com/andbread/Andbread_Frontend"> github </a> <br/>
+**`🍞 엔빵`** 👉🏻  <a href="https://github.com/andbread/Andbread_Frontend"> repository </a> <br/>
 > 구독 공유 관리 서비스 (2025.01.12 ~ 2025.03.23) <br/>
 > TypeScript | Next.js | Tailwind
 
