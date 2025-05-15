@@ -15,17 +15,6 @@
 - 🌱 `2024.06 ~ 2024.12` |  LG U+ URECA SW Academy 1기
 - 📚 `2024.07 ~` |  알고리즘 스터디 
 
-### 🎖️ My Project
-
-**`🐕 댕댕어디가`**  👉🏻 <a href="https://github.com/subinsong01/WHERE_ARE_YOU_GOING_DAENG_DAENG_FE"> repository </a> <br/>
-> 반려동물 동반 가능 시설 공유 서비스 (2024.11.12 ~ 2025.02.17) <br/>
-JavaScript | React | Styled-Component
-
-
-**`🍞 엔빵`** 👉🏻  <a href="https://github.com/andbread/Andbread_Frontend"> repository </a> <br/>
-> 구독 공유 관리 서비스 (2025.01.12 ~ 2025.03.23) <br/>
-> TypeScript | Next.js | Tailwind
-
 ### 📝 Records
 
 - 🔗 <a href="https://devsubin.hashnode.dev/"> [blog] </a> 트러블슈팅과 개발 경험을 기록합니다.  
