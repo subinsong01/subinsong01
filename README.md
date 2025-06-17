@@ -1,6 +1,10 @@
 ## 🐱 About me.
 
-🏃🏻‍♀️ **작은 불편함도 놓치지 않는 프론트엔드 개발자**
+I’m a detail-oriented frontend developer who cares about user experience beyond just writing code. <br />
+I enjoy collaborating with teams and always strive to improve together.<br />
+More than a coder, I’m a problem solver focused on making things better.
+
+📧 ttnqls0217@gmail.com
 
 ###  🚀 Tech Stack
 **Markup & StyleSheet** <br/>
@@ -27,11 +31,12 @@
 
 ### 🏫 Education & Self-development
 
-- 🎓 `2024.08` | 전남대학교 소프트웨어공학과 졸업
-- 🌱 `2024.06 ~ 2024.12` |  LG U+ URECA SW Academy 1기
-- 📚 `2024.07 ~` |  알고리즘 스터디 
+- 🎓 `2024.08` | Bachelor of Software Engineering, Chonnam National University
+- 🌱 `2024.06 ~ 2024.12` |  LG U+ URECA SW Academy
+- 📚 `2024.07 ~` |  Participating in an algorithm study group
+
 
 ### 📝 Records
 
-- 🔗 <a href="https://devsubin.hashnode.dev/"> [blog] </a> 트러블슈팅과 개발 경험을 기록합니다.  
-- 📘 <a href="https://github.com/subinsong01/Frontend-Study"> [github]</a> 학습한 내용을 정리한 스터디 레포입니다.
+- 🔗 <a href="https://devsubin.hashnode.dev/"> [blog] </a> Writing about development insights and troubleshooting experiences.
+- 📘 <a href="https://github.com/subinsong01/Frontend-Study"> [github]</a> A study repository where I organize and summarize what I’ve learned.
