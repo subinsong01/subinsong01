@@ -1,8 +1,8 @@
 ## 🐱 About me.
 
-I’m a detail-oriented frontend developer who cares about user experience beyond just writing code. <br />
-I enjoy collaborating with teams and always strive to improve together.<br />
-More than a coder, I’m a problem solver focused on making things better.
+I’m a detail-oriented frontend developer who cares about user experience beyond just writing code <br />
+I enjoy collaborating with teams and always strive to improve together<br />
+More than a coder, I’m a problem solver focused on making things better
 
 📧 ttnqls0217@gmail.com
 
@@ -29,14 +29,18 @@ More than a coder, I’m a problem solver focused on making things better.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### 🏫 Education & Self-development
+### 🏫 Education
 
-- 🎓 `2024.08` | Bachelor of Software Engineering, Chonnam National University
-- 🌱 `2024.06 ~ 2024.12` |  LG U+ URECA SW Academy
-- 📚 `2024.07 ~` |  Participating in an algorithm study group
+- 🎓 `Aug 2024` | Bachelor of Software Engineering, Chonnam National University (Graduated)
+- 🌱 `Jun 2024 – Dec 2024` |  LG U+ URECA SW Academy
 
+### 🌟 Activities & Professional Development
+
+- ✏️ `Oct 2024 – Nov 2024` | Wikibooks GitHub Supporter
+- 📚 `Jul 2024 – Present` | Algorithm Study Group Participant
+- 👩🏻‍💻 `Jun 2023 – Aug 2023` | Frontend Intern, DevUnlimit
 
 ### 📝 Records
 
-- 🔗 <a href="https://devsubin.hashnode.dev/"> [blog] </a> Writing about development insights and troubleshooting experiences.
-- 📘 <a href="https://github.com/subinsong01/Frontend-Study"> [github]</a> A study repository where I organize and summarize what I’ve learned.
+- 🔗 <a href="https://devsubin.hashnode.dev/"> [blog] </a> Sharing development insights and troubleshooting experiences
+- 📘 <a href="https://github.com/subinsong01/Frontend-Study"> [github]</a> A study repository where I organize and summarize my learning
