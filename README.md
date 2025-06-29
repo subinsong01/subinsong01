@@ -1,6 +1,5 @@
 ## 🐱 About me.
 
-I’m a detail-oriented frontend developer who cares about user experience beyond just writing code <br />
 I enjoy collaborating with teams and always strive to improve together<br />
 More than a coder, I’m a problem solver focused on making things better
 
