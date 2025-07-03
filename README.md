@@ -1,7 +1,7 @@
 ## 🐱 About me.
 
 I enjoy collaborating with teams and always strive to improve together<br />
-More than a coder, I’m a problem solver focused on making things better
+More than a coder, I’m a problem solver focused on making user experience better
 
 📧 ttnqls0217@gmail.com
 
