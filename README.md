@@ -1,5 +1,7 @@
 ## 🐱 About me.
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh0Y3VhYThkd213dWxycWF5MGQyd3p6b2twazRoNmt1ODdweWdwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6wNJBF6U6VZWmLny/giphy.gif" width="300"/>
+
 I enjoy collaborating with teams and always strive to improve together<br />
 More than a coder, I’m a problem solver focused on making user experience better
 
