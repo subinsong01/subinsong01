@@ -25,19 +25,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-
-### 🏫 Education
-
-- 🎓 `Aug 2024` | Bachelor of Software Engineering, Chonnam National University (Graduated)
-- 🌱 `Jun 2024 – Dec 2024` |  LG U+ URECA SW Academy
-
-### 🌟 Activities & Professional Development
-
-- ✏️ `Oct 2024 – Nov 2024` | Wikibooks GitHub Supporter
-- 📚 `Jul 2024 – Present` | Algorithm Study Group Participant
-- 👩🏻‍💻 `Jun 2023 – Aug 2023` | Frontend Intern, DevUnlimit
-
 ### 📝 Records
 
-- 🔗 <a href="https://devsubin.hashnode.dev/"> [blog] </a> Sharing development insights and troubleshooting experiences
-- 📘 <a href="https://github.com/subinsong01/Frontend-Study"> [github]</a> A study repository where I organize and summarize my learning
+🔗 <a href="https://devsubin.hashnode.dev/"> [blog] </a> Sharing development insights and troubleshooting experiences <br/>
+📘 <a href="https://github.com/subinsong01/Frontend-Study"> [github]</a> A study repository where I organize and summarize my learning
