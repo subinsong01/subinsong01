@@ -25,7 +25,5 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-### 📝 Records
-
-🔗 <a href="https://devsubin.hashnode.dev/"> [blog] </a> Sharing development insights and troubleshooting experiences <br/>
-📘 <a href="https://github.com/subinsong01/Frontend-Study"> [github]</a> A study repository where I organize and summarize my learning
+- 🔗 <a href="https://devsubin.hashnode.dev/"> [blog] </a> Sharing development insights and troubleshooting experiences <br/>
+- 📘 <a href="https://github.com/subinsong01/Frontend-Study"> [github]</a> A study repository where I organize and summarize my learning
