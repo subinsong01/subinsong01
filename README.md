@@ -8,6 +8,13 @@
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=redux&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+
+**Backend**<br />
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 - 🔗 <a href="https://devsubin.hashnode.dev/"> [blog] </a> Sharing development insights and troubleshooting experiences <br/>
 - 📘 <a href="https://github.com/subinsong01/Frontend-Study"> [github]</a> A study repository where I organize and summarize my learning
